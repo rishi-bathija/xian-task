@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/images/logo.png";
+import Logo from "../assets/images/Logo.png";
 import Linkedin from "../assets/images/linkedin.png";
 import Instagram from "../assets/images/insta.png";
 import Facebook from "../assets/images/fb.png";
